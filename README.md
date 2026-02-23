@@ -1,5 +1,12 @@
 # docuextract-ui
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/docuextract-ui/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/docuextract-ui/actions)
+![License](https://img.shields.io/github/license/yksanjo/docuextract-ui)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/docuextract-ui)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/docuextract-ui)
+
 ## Detailed Description
 
 docuextract-ui is maintained as an industry-grade software project with production-ready engineering practices.  
